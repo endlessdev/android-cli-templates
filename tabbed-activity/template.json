@@ -1,0 +1,13 @@
+{
+  "component": "fragment",
+  "src": [
+    {
+      "name": "index.ac.src"
+    }
+  ],
+  "layout": [
+    {
+      "name": "index.ac.layout"
+    }
+  ]
+}

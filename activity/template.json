@@ -1,0 +1,13 @@
+{
+  "component": "activity",
+  "src": [
+    {
+      "name": "index.ac.src"
+    }
+  ],
+  "layout": [
+    {
+      "name": "index.ac.layout"
+    }
+  ]
+}
